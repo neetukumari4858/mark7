@@ -1,0 +1,53 @@
+body{
+    font-family:'Merriweather',serif;
+    margin:0px;
+    background-color:#BFDBFE;
+    
+}
+textarea{
+    width:30%;
+    height:15vh;
+    padding:0.5rem;
+    margin:0.5rem; 
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+#output{
+    border: 1px solid black;
+    height:7vh;
+    width:30% ;
+    margin: 1rem;
+    background-color:white;
+    padding:1rem ;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+#btn-translate{
+    padding: 1rem 2rem;
+    font-size: larger;
+    border-radius: 7px;
+    background-color: #BFDBFE;
+    
+}
+#btn-translate:hover{
+    background-color:#1E40AF;
+}
+.sec{
+    background-color:#BFDBFE;
+    padding: 0.0rem 30rem;
+}
+img{
+    height:180px;
+    width: 300px;
+    padding:0.5rem ;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
