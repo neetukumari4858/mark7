@@ -32,6 +32,8 @@ textarea{
     font-size: larger;
     border-radius: 7px;
     background-color: #BFDBFE;
+    border-color: black;
+    
     
 }
 #btn-translate:hover{
